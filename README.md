@@ -6,7 +6,7 @@ repositories. All projects were built to learn new things and test my limits!
 ### More About Me:
 - 🧑‍💻 Currently an intern at the Software and Computer Engineering Society
 - 🌐 Active Hackathon Competitor
-- 🎮 I am Bronze in League of Legends (I WILL HIT PLAT ONE DAY)
+- 🎮 I am Silver in League of Legends (I WILL HIT PLAT ONE DAY)
 
 
 ---
