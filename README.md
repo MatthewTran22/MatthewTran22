@@ -1,6 +1,6 @@
 ## ✨ Matthew Tran
 
-I am a backend developer with a love for working on personal projects and contributing to open-source
+I am a fullstack developer with a love for working on personal projects and contributing to open-source
 repositories. All projects were built to learn new things and test my limits!
 
 ### More About Me:
