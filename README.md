@@ -4,7 +4,7 @@ I am a fullstack developer with a love for working on personal projects and cont
 repositories. All projects were built to learn new things and test my limits!
 
 ### More About Me:
-- 🧑‍💻 Currently an intern at the SJSU College of Engineering and Interlinked
+- 🧑‍💻 Fortune 500 Ready 😈
 - 🌐 Active Hackathon Competitor
 - 🎮 I am Silver in League of Legends (I WILL HIT PLAT ONE DAY)
 
