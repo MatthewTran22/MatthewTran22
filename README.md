@@ -4,9 +4,9 @@ I am a fullstack developer with a love for working on personal projects and cont
 repositories. All projects were built to learn new things and test my limits!
 
 ### More About Me:
-- 🧑‍💻 Fortune 500 Ready 😈
+- 🧑‍💻 Learning through building
 - 🌐 Active Hackathon Competitor
-- 🎮 I am Silver in League of Legends (I WILL HIT PLAT ONE DAY)
+- 🎮 Ex League of Legends Player
 
 
 ---
